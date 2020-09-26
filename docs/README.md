@@ -4,8 +4,10 @@
 
 This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on #Apruebo and #Rechazo opinions on social media.
 
-- #Apruebo dataset, September 26, 2020 (*n* = 21,982; 23.1 MB)
-- #Rechazo dataset, September 26, 2020 (*n* = 31,244; 33.9 MB)
+| Dataset | Date | *N* | Size |
+| --- | --- | --- | --- |
+| [#Apruebo Dataset](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twApruebo.csv) | Sep. 26, 2020 | 21,982 | 23.1 MB |
+| [#Rechazo Dataset](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twRechazo.csv) | Sep. 26, 2020 | 31,244 | 33.9 MB |
 
 This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt).
 
