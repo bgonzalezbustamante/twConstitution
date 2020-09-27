@@ -11,7 +11,7 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [0.2.0] - 2020-09-27
 ### Added
-- Variable details.
+- Variables details.
 ### Changed
 - Corrections GitHub page.
 
