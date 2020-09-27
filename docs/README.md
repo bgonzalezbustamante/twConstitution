@@ -2,12 +2,12 @@
 
 [![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.txt) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
-This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on #Apruebo and #Rechazo opinions on social media.
+This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on #Apruebo and #Rechazo opinions on this social media.
 
-| Dataset | Date | *N* | Size |
-| --- | --- | --- | --- |
-| [#Apruebo Dataset](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twApruebo.csv) | Sep. 26, 2020 | 21,982 | 23.1 MB |
-| [#Rechazo Dataset](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twRechazo.csv) | Sep. 26, 2020 | 31,244 | 33.9 MB |
+| Dataset | Date | Year | N | Size | Format |
+| --- | --- | --- | --- | --- | --- |
+| #Apruebo | Sep. 26 | 2020 | 21,982 | 23.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twApruebo.csv) |
+| #Rechazo | Sep. 26 | 2020 | 31,244 | 33.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twRechazo.csv) |
 
 This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt).
 
