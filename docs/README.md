@@ -12,6 +12,8 @@ Some of the variables are date, hour, username, tweet text, RT count, fav count,
 | #Rechazo | Sep. 26 | 2020 | 31,244 | 33.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200926_twRechazo.csv) |
 | #Apruebo | Sep. 27 | 2020 | 24,158 | 25.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200927_twApruebo.csv) |
 | #Rechazo | Sep. 27 | 2020 | 32,945 | 35.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200927_twRechazo.csv) |
+| #Apruebo | Sep. 28 | 2020 | 25,900 | 27.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200928_twApruebo.csv) |
+| #Rechazo | Sep. 28 | 2020 | 36,546 | 39.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200928_twRechazo.csv) |
 
 This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt).
 
