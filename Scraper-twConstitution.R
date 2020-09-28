@@ -17,9 +17,9 @@
 
 ## Packages
 library(rtweet)
-library(ggplot2)
 library(dplyr)
 library(tidytext)
+## library(ggplot2)
 ## library(quanteda)
 
 ## Bastián González-Bustamante' Credentials
