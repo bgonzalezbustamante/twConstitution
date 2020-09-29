@@ -14,6 +14,8 @@ Words networks are fitted from time to time, and the datasets are scraped and up
 | #Rechazo | Sep. 27 | 2020 | 32,945 | 35.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200927_twRechazo.csv) |
 | #Apruebo | Sep. 28 | 2020 | 25,900 | 27.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200928_twApruebo.csv) |
 | #Rechazo | Sep. 28 | 2020 | 36,546 | 39.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200928_twRechazo.csv) |
+| #Apruebo | Sep. 29 | 2020 | 25,833 | 27.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200929_twApruebo.csv) |
+| #Rechazo | Sep. 29 | 2020 | 36,921 | 40.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20200929_twRechazo.csv) |
 
 This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt).
 
