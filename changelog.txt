@@ -9,6 +9,10 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
+## [0.2.2] - 2020-09-30
+### Changed
+- Corrections GitHub page.
+
 ## [0.2.1] - 2020-09-28
 ### Changed
 - Corrections GitHub page.
