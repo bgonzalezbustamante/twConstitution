@@ -12,6 +12,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ## [0.2.2] - 2020-09-30
 ### Changed
 - Corrections GitHub page.
+- Data collection directory structure.
 
 ## [0.2.1] - 2020-09-28
 ### Changed
