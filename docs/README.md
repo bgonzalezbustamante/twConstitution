@@ -8,6 +8,8 @@ Words networks are fitted from time to time, and the datasets are scraped and up
 
 | Dataset | Date | Year | N | Size | Format |
 | --- | --- | --- | --- | --- | --- |
+| #Apruebo | Oct. 04 | 2020 | 24,065 | 25.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201004_twApruebo.csv) |
+| #Rechazo | Oct. 04 | 2020 | 34,413 | 37.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201004_twRechazo.csv) |
 | #Apruebo | Oct. 03 | 2020 | 26,960 | 28.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201003_twApruebo.csv) |
 | #Rechazo | Oct. 03 | 2020 | 37,364 | 40.8 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201003_twRechazo.csv) |
 | #Apruebo | Oct. 02 | 2020 | 26,628 | 28.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201002_twApruebo.csv) |
