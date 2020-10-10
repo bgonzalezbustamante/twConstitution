@@ -50,14 +50,14 @@ rechazo_tweets <- search_tweets(q = "#Rechazo", n = 100000, lang = "es",
 
 ## Export as CSV
 
-save_as_csv(apruebo_tweets, 'dataCollection/20201009_twApruebo.csv', 
+save_as_csv(apruebo_tweets, 'dataCollection/20201010_twApruebo.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
 
-## test1 <- read.csv("dataCollection/20201008_twApruebo.csv", header = T, sep = ",")
+## test1 <- read.csv("dataCollection/20201009_twApruebo.csv", header = T, sep = ",")
 ## rm(test1)
 
-save_as_csv(rechazo_tweets, 'dataCollection/20201009_twRechazo.csv', 
+save_as_csv(rechazo_tweets, 'dataCollection/20201010_twRechazo.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
 
-## test2 <- read.csv("dataCollection/20201008_twRechazo.csv", header = T, sep = ",")
+## test2 <- read.csv("dataCollection/20201009_twRechazo.csv", header = T, sep = ",")
 ## rm(test2)
