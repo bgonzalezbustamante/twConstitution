@@ -8,6 +8,18 @@ Words networks are fitted from time to time, and the datasets are scraped and up
 
 | Dataset | Date | Year | N | Size | Format |
 | --- | --- | --- | --- | --- | --- |
+| #Apruebo | Oct. 11 | 2020 | 21,709 | 23.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201011_twApruebo.csv) |
+| #Rechazo | Oct. 11 | 2020 | 34,779 | 38.0 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201011_twRechazo.csv) |
+| #Apruebo | Oct. 10 | 2020 | 20,562 | 22.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201010_twApruebo.csv) |
+| #Rechazo | Oct. 10 | 2020 | 33,350 | 36.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201010_twRechazo.csv) |
+| #Apruebo | Oct. 09 | 2020 | 19,366 | 21.0 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201009_twApruebo.csv) |
+| #Rechazo | Oct. 09 | 2020 | 30,696 | 33.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201009_twRechazo.csv) |
+| #Apruebo | Oct. 08 | 2020 | 19,960 | 21.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201008_twApruebo.csv) |
+| #Rechazo | Oct. 08 | 2020 | 31,076 | 34.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201008_twRechazo.csv) |
+| #Apruebo | Oct. 07 | 2020 | 20,014 | 21.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201007_twApruebo.csv) |
+| #Rechazo | Oct. 07 | 2020 | 30,396 | 33.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201007_twRechazo.csv) |
+| #Apruebo | Oct. 06 | 2020 | 20,938 | 22.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201006_twApruebo.csv) |
+| #Rechazo | Oct. 06 | 2020 | 30,926 | 33.8 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201006_twRechazo.csv) |
 | #Apruebo | Oct. 05 | 2020 | 22,222 | 23.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201005_twApruebo.csv) |
 | #Rechazo | Oct. 05 | 2020 | 32,821 | 36.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201005_twRechazo.csv) |
 | #Apruebo | Oct. 04 | 2020 | 24,065 | 25.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201004_twApruebo.csv) |
