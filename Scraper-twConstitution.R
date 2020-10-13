@@ -37,8 +37,8 @@ twitter_token <- create_token(app = appname,
                               access_secret = accesstokensecret)
 
 ## Data Collection
-rm(apruebo_tweets)
-rm(rechazo_tweets)
+## rm(apruebo_tweets)
+## rm(rechazo_tweets)
 
 apruebo_tweets <- search_tweets(q = "#Apruebo", n = 100000, lang = "es",
                                 include_rts = FALSE, 
@@ -50,13 +50,13 @@ rechazo_tweets <- search_tweets(q = "#Rechazo", n = 100000, lang = "es",
 
 ## Export as CSV
 
-save_as_csv(apruebo_tweets, 'dataCollection/20201012_twApruebo.csv', 
+save_as_csv(apruebo_tweets, 'dataCollection/20201013_twApruebo.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
 
 ## test1 <- read.csv("dataCollection/20201011_twApruebo.csv", header = T, sep = ",")
 ## rm(test1)
 
-save_as_csv(rechazo_tweets, 'dataCollection/20201012_twRechazo.csv', 
+save_as_csv(rechazo_tweets, 'dataCollection/20201013_twRechazo.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
 
 ## test2 <- read.csv("dataCollection/20201011_twRechazo.csv", header = T, sep = ",")
