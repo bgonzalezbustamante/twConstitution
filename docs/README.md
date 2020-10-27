@@ -8,16 +8,36 @@ Data sets are scraped and uploaded regularly. Some of the variables are date, ho
 
 | Dataset | Date | Year | N | Size | Format |
 | --- | --- | --- | --- | --- | --- |
-| #Apruebo | Oct. 16 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twApruebo.csv) |
-| #Rechazo | Oct. 16 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twRechazo.csv) |
-| #Apruebo | Oct. 15 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twApruebo.csv) |
-| #Rechazo | Oct. 15 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twRechazo.csv) |
-| #Apruebo | Oct. 14 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twApruebo.csv) |
-| #Rechazo | Oct. 14 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twRechazo.csv) |
-| #Apruebo | Oct. 13 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twApruebo.csv) |
-| #Rechazo | Oct. 13 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twRechazo.csv) |
-| #Apruebo | Oct. 12 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201012_twApruebo.csv) |
-| #Rechazo | Oct. 12 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201012_twRechazo.csv) |
+| #Apruebo | Oct. 26 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 26 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 25 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201025_twApruebo.csv) |
+| #Rechazo | Oct. 25 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201025_twRechazo.csv) |
+| #Apruebo | Oct. 24 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201024_twApruebo.csv) |
+| #Rechazo | Oct. 24 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201024_twRechazo.csv) |
+| #Apruebo | Oct. 23 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201023_twApruebo.csv) |
+| #Rechazo | Oct. 23 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201023_twRechazo.csv) |
+| #Apruebo | Oct. 22 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201022_twApruebo.csv) |
+| #Rechazo | Oct. 22 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201022_twRechazo.csv) |
+| #Apruebo | Oct. 21 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201021_twApruebo.csv) |
+| #Rechazo | Oct. 21 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201021_twRechazo.csv) |
+| #Apruebo | Oct. 20 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201020_twApruebo.csv) |
+| #Rechazo | Oct. 20 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201020_twRechazo.csv) |
+| #Apruebo | Oct. 19 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201019_twApruebo.csv) |
+| #Rechazo | Oct. 19 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201019_twRechazo.csv) |
+| #Apruebo | Oct. 18 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201018_twApruebo.csv) |
+| #Rechazo | Oct. 18 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201018_twRechazo.csv) |
+| #Apruebo | Oct. 17 | 2020 |  | 20.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201017_twApruebo.csv) |
+| #Rechazo | Oct. 17 | 2020 |  | 40.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201017_twRechazo.csv) |
+| #Apruebo | Oct. 16 | 2020 |  | 20.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twApruebo.csv) |
+| #Rechazo | Oct. 16 | 2020 |  | 38.5 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twRechazo.csv) |
+| #Apruebo | Oct. 15 | 2020 |  | 20.5 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twApruebo.csv) |
+| #Rechazo | Oct. 15 | 2020 |  | 38.7 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twRechazo.csv) |
+| #Apruebo | Oct. 14 | 2020 |  | 20.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twApruebo.csv) |
+| #Rechazo | Oct. 14 | 2020 |  | 40.7 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twRechazo.csv) |
+| #Apruebo | Oct. 13 | 2020 |  | 21.4 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twApruebo.csv) |
+| #Rechazo | Oct. 13 | 2020 |  | 40.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twRechazo.csv) |
+| #Apruebo | Oct. 12 | 2020 |  | 23.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201012_twApruebo.csv) |
+| #Rechazo | Oct. 12 | 2020 |  | 42.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201012_twRechazo.csv) |
 | #Apruebo | Oct. 11 | 2020 | 21,709 | 23.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201011_twApruebo.csv) |
 | #Rechazo | Oct. 11 | 2020 | 34,779 | 38.0 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201011_twRechazo.csv) |
 | #Apruebo | Oct. 10 | 2020 | 20,562 | 22.3 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201010_twApruebo.csv) |
