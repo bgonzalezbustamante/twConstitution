@@ -4,10 +4,16 @@
 
 This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on **#Apruebo** (see words network, *forthcoming*) and **#Rechazo** (see words network, *forthcoming*) viewpoints on this social media. 
 
-Data sets are scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as September 23rd and October 26th, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
+Data sets are scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as October 6th and 26th, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
 
 | Dataset | Date | Year | N | Size | Format |
 | --- | --- | --- | --- | --- | --- |
+| #Apruebo | Oct. 16 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twApruebo.csv) |
+| #Rechazo | Oct. 16 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201016_twRechazo.csv) |
+| #Apruebo | Oct. 15 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twApruebo.csv) |
+| #Rechazo | Oct. 15 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201015_twRechazo.csv) |
+| #Apruebo | Oct. 14 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twApruebo.csv) |
+| #Rechazo | Oct. 14 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201014_twRechazo.csv) |
 | #Apruebo | Oct. 13 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twApruebo.csv) |
 | #Rechazo | Oct. 13 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201013_twRechazo.csv) |
 | #Apruebo | Oct. 12 | 2020 |  |  | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201012_twApruebo.csv) |
