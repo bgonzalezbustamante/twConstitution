@@ -1,6 +1,6 @@
 ## Twitter Online Tracker of the Chilean Referendum for a New Constitution
 
-[![Version](https://img.shields.io/badge/version-v0.2.5-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.txt) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
+[![Version](https://img.shields.io/badge/version-v0.2.6-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.txt) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on **#Apruebo** (see words network, *forthcoming*) and **#Rechazo** (see words network, *forthcoming*) viewpoints on this social media. 
 
@@ -8,6 +8,18 @@ Data sets are scraped and uploaded regularly. Some of the variables are date, ho
 
 | Dataset | Date | Year | N | Size | Format |
 | --- | --- | --- | --- | --- | --- |
+| #Apruebo | Nov. 01 | 2020 | 45,195 | 46.5 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Nov. 01 | 2020 | 22,142 | 24.0 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 31 | 2020 | 50,244 | 52.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 31 | 2020 | 27,331 | 29.9 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 30 | 2020 | 53,889 | 56.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 30 | 2020 | 33,479 | 36.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 29 | 2020 | 57,567 | 60.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 29 | 2020 | 38,636 | 42.1 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 28 | 2020 | 59,994 | 62.6 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 28 | 2020 | 42,398 | 45.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
+| #Apruebo | Oct. 27 | 2020 | 63,778 | 66.7 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
+| #Rechazo | Oct. 27 | 2020 | 50,539 | 53.7 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
 | #Apruebo | Oct. 26 | 2020 | 65,261 | 68.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twApruebo.csv) |
 | #Rechazo | Oct. 26 | 2020 | 52,946 | 56.2 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201026_twRechazo.csv) |
 | #Apruebo | Oct. 25 | 2020 | 47,798 | 50.7 MB | [CSV](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/dataCollection/20201025_twApruebo.csv) |
