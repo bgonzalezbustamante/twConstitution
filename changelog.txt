@@ -9,43 +9,47 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
+## [0.2.7] - 2021-03-25
+### Changed
+- Revision of upgrade versioning.
+
 ## [0.2.6] - 2021-03-11
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.2.5] - 2021-01-12
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.2.4] - 2020-12-21
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.2.3] - 2020-10-27
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.2.2] - 2020-09-30
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 - Data collection directory structure.
 
 ## [0.2.1] - 2020-09-28
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.2.0] - 2020-09-27
 ### Added
 - Variables details.
 ### Changed
-- Corrections GitHub page.
+- Minor corrections.
 
 ## [0.1.0] - 2020-09-26
 ### Added
 - Automated data scraping.
 - GitHub repository.
 - OSF project (DOI: 0.17605/OSF.IO/73NDB).
-- Badges in SVG.
+- Badges in SVG at GitHub repository.
 - GitHub page powered by Jekyll.
 - Changelog in TXT format at GitHub repository.
 - License CC-BY Attribution 4.0 International at GitHub repository.
