@@ -12,6 +12,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ## [1.2.6] - 2021-03-25
 ### Changed
 - Revision of upgrade versioning.
+- Minor corrections.
 
 ## [1.2.5] - 2021-03-11
 ### Changed
@@ -49,7 +50,7 @@ All notable changes to "twConstitution" will be documented in this file.
 - Automated data scraping.
 - GitHub repository.
 - OSF project (DOI: 0.17605/OSF.IO/73NDB).
-- Badges in SVG at GitHub repository.
+- Badges in SVG on GitHub repository.
 - GitHub page powered by Jekyll.
-- Changelog in TXT format at GitHub repository.
-- License CC-BY Attribution 4.0 International at GitHub repository.
+- Changelog in TXT format on GitHub repository.
+- License CC-BY Attribution 4.0 International on GitHub repository.
