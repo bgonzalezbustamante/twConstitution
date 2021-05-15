@@ -3,11 +3,17 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
-## [1.3.6] - TBC
+## [1.4.6] - TBC
 ### Added
 - Words networks.
 
 ## [Released]
+
+## [1.3.6] - 2021-05-15
+### Added
+- Automated data scraping #Elecciones2021CL
+### Changed
+- Revision of upgrade versioning.
 
 ## [1.2.6] - 2021-03-27
 ### Changed
@@ -47,7 +53,8 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [1.0.0] - 2020-09-26
 ### Added
-- Automated data scraping.
+- Automated data scraping #Apruebo
+- Automated data scraping #Rechazo
 - GitHub repository.
 - OSF project (DOI: 0.17605/OSF.IO/73NDB).
 - Badges in SVG on GitHub repository.
