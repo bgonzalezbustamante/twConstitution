@@ -82,10 +82,11 @@ save_as_csv(rechazo_tweets, 'dataCollection/20201101_twRechazo.csv',
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Data COllection
+## rm(electoral_tweets)
 electoral_tweets <- search_tweets(q = "#Elecciones2021CL", n = 100000, lang = "es",
                                   include_rts = FALSE, 
                                   retryonratelimit = TRUE)
 
 ## Export as CSV
-save_as_csv(electoral_tweets, '../secured-data/twConstitution/electionsData/20210515.csv', 
+save_as_csv(electoral_tweets, '../secured-data/twConstitution/electionsData/20210517_Elecciones2021CL.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
