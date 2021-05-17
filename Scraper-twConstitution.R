@@ -88,5 +88,5 @@ electoral_tweets <- search_tweets(q = "#Elecciones2021CL", n = 100000, lang = "e
                                   retryonratelimit = TRUE)
 
 ## Export as CSV
-save_as_csv(electoral_tweets, '../secured-data/twConstitution/electionsData/20210517_Elecciones2021CL.csv', 
+save_as_csv(electoral_tweets, '../secured-data/twConstitution/electionsData/20210517_2_Elecciones2021CL.csv', 
             prepend_ids = TRUE, na = "", fileEncoding = "UTF-8")
