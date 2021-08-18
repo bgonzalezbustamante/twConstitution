@@ -3,11 +3,17 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
-## [1.4.6] - TBC
+## [1.4.7] - TBC
 ### Added
 - Words networks.
 
 ## [Released]
+
+## [1.3.7] - 2021-08-18
+### Changed
+- Minor corrections.
+### Deprecated
+- Automated data scraping #Elecciones2021CL
 
 ## [1.3.6] - 2021-05-15
 ### Added
