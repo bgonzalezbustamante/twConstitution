@@ -13,6 +13,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ## [1.4.8] - 2021-09-15
 ### Changed
 - Revision of upgrade versioning.
+- Minor corrections.
 
 ## [1.4.7] - 2021-08-18
 ### Changed
