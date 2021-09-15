@@ -3,23 +3,32 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
-## [1.4.7] - TBC
+## [2.0.0] - TBC
 ### Added
-- Words networks.
+- Exploratory data analyais code.
+- Words networks code.
 
 ## [Released]
 
-## [1.3.7] - 2021-08-18
+## [1.4.8] - 2021-09-15
+### Changed
+- Revision of upgrade versioning.
+
+## [1.4.7] - 2021-08-18
 ### Changed
 - Minor corrections.
 ### Deprecated
 - Automated data scraping #Elecciones2021CL
 
-## [1.3.6] - 2021-05-15
+## [1.4.6] - 2021-05-15
 ### Added
 - Automated data scraping #Elecciones2021CL
 ### Changed
 - Revision of upgrade versioning.
+
+## [1.3.6] - 2021-04-20
+### Added
+twConstitution raw data in CSV format (UTF-8) on secured-repo.
 
 ## [1.2.6] - 2021-03-27
 ### Changed
