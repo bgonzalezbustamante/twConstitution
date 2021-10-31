@@ -17,6 +17,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ## [1.5.9] - 2021-10-22
 ### Changed
 - Revision of upgrade versioning.
+- Changelog in MD format on GitHub repository.
 
 ## [1.5.8] - 2021-09-24
 ### Added
