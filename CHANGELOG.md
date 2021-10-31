@@ -8,9 +8,13 @@ All notable changes to "twConstitution" will be documented in this file.
 - Exploratory data analyais code.
 - Words networks code.
 
-## [1.5.10] - TBC
+## [1.5.11] - TBC
 ### Changed
 - Scripts and folders names standardisation.
+
+## [1.5.10] - 2021-10-31
+### Changed
+- Minor corrections.
 
 ## [Released]
 
@@ -85,6 +89,7 @@ twConstitution raw data in CSV format (UTF-8) on secured-repo.
 - Automated data scraping #Apruebo
 - Automated data scraping #Rechazo
 - GitHub repository.
+- README in MD format on GitHub repository.
 - OSF project (DOI: 0.17605/OSF.IO/73NDB).
 - Badges in SVG on GitHub repository.
 - GitHub page powered by Jekyll.
