@@ -1,4 +1,4 @@
-## Twitter Online Tracker of the Chilean Referendum for a New Constitution
+# Twitter Online Tracker of the Chilean Referendum for a New Constitution
 
 [![Version](https://img.shields.io/badge/version-v1.5.9-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.txt) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
@@ -87,9 +87,9 @@ Data sets are scraped and uploaded regularly. Some of the variables are date, ho
 | #Apruebo | Sep. 26 | 2020 | 21,982 | 23.1 MB | CSV |
 | #Rechazo | Sep. 26 | 2020 | 31,244 | 33.9 MB | CSV |
 
-This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/changelog.txt).
+This repository is linked to the **OSF-Project** (DOI: [10.17605/OSF.IO/73NDB](http://doi.org/10.17605/OSF.IO/73NDB)). This site will be updated on a regular basis, see the [changelog](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
 
-### About Me
+## About Me
 
 I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda's College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile.
 
