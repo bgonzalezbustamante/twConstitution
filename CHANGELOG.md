@@ -7,16 +7,19 @@ All notable changes to "twConstitution" will be documented in this file.
 ### Added
 - Exploratory data analyais code.
 - Words networks code.
-
-## [1.5.11] - TBC
 ### Changed
 - Scripts and folders names standardisation.
+
+## [Released]
+
+## [1.5.11] - 2021-11-15
+### Changed
+- License in MD format on GitHub repository.
+- Minor corrections.
 
 ## [1.5.10] - 2021-10-31
 ### Changed
 - Minor corrections.
-
-## [Released]
 
 ## [1.5.9] - 2021-10-22
 ### Changed
