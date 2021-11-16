@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+authors:
+- family-names: "González-Bustamante"
+  given-names: "Bastián"
+  orcid: "https://orcid.org/0000-0003-1510-6820"
+title: "Twitter Online Tracker of the Chilean Referendum for a New Constitution"
+version: "1.5.11"
+doi: 10.17605/OSF.IO/73NDB
+date-released: 2021-11-15
+url: "https://github.com/bgonzalezbustamante/twConstitution"
+type: data
