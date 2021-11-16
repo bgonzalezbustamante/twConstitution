@@ -16,6 +16,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ### Changed
 - License in MD format on GitHub repository.
 - Minor corrections.
+- Citation file.
 
 ## [1.5.10] - 2021-10-31
 ### Changed
