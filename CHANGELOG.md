@@ -15,6 +15,8 @@ All notable changes to "twConstitution" will be documented in this file.
 ## [1.6.11] - 2021-11-17
 ### Added
 - Repository status badge.
+### Changed
+- Minor corrections.
 
 ## [1.5.11] - 2021-11-15
 ### Changed
