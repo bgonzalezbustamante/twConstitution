@@ -12,6 +12,10 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
+## [1.6.11] - 2021-11-17
+### Added
+- Repository status badge.
+
 ## [1.5.11] - 2021-11-15
 ### Changed
 - License in MD format on GitHub repository.
