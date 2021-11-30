@@ -56,7 +56,7 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [1.3.6] - 2021-04-20
 ### Added
-- twConstitution raw data in CSV format (UTF-8) on secured-repo.
+- twConstitution raw data in CSV format (UTF-8) on secured-repository.
 
 ## [1.2.6] - 2021-03-27
 ### Changed
