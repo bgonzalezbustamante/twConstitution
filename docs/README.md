@@ -14,7 +14,7 @@ Data sets are scraped and uploaded regularly. Some of the variables are date, ho
 
 > Following current ethical considerations on social media research, the files in `UTF-8` encoded comma-delimited values format have been temporarily moved to a secured and private repository to protect users-specific information and geolocated data. Once that kind of information will be anonymised with a cryptographic algorithm based on a hash function, the data will be re-released.
 
-| Dataset | Date | Year | N | Size | Format |
+| Dataset | Date | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
 | #Apruebo | Nov. 01 | 2020 | 45,195 | 46.5 MB | `CSV` |
 | #Rechazo | Nov. 01 | 2020 | 22,142 | 24.0 MB | `CSV` |
