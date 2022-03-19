@@ -7,6 +7,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ### Added
 - Exploratory data analyais code.
 - Words networks code.
+- Cryptographic algorithm.
 
 ## [Released]
 
