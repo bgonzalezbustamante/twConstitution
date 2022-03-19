@@ -15,7 +15,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ### Changed
 - twConstitution raw data in CSV UTF-8 format on secured repository.
 - Scripts and folders names standardisation.
-- MIT license.
+- MIT license on GitHub repository.
 - Revision of upgrade versioning.
 - Minor corrections.
 
