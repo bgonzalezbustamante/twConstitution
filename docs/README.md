@@ -99,6 +99,10 @@ This repository is linked to the `OSF-Project` (DOI: [10.17605/OSF.IO/73NDB](htt
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)). USB devices issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
 
+### Software
+
+We used `R v4.0.2 -- Taking Off Again` and the following packages: `dplyr`, `rtweet`, and `tidytext`.
+
 ## License
 
 The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CCBY40.md), and the underlying code used to format and display that content is licensed under a [MIT license](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.md).
