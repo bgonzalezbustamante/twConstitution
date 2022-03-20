@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Twitter Online Tracker of the Chilean Referendum for a New Constitution"
-version: "1.4.14 -- Spring Star"
+version: "1.4.15 -- Purple Glade"
 doi: 10.17605/OSF.IO/73NDB
-date-released: 2022-03-19
+date-released: 2022-03-20
 url: "https://github.com/bgonzalezbustamante/twConstitution"
 type: software-code
