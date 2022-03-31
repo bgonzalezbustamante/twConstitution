@@ -107,6 +107,8 @@ We used `R v4.0.2 -- Taking Off Again` and the following packages: `dplyr`, `rtw
 
 The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CCBY40.md), and the underlying code used to format and display that content is licensed under an [MIT license](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.md).
 
+The above implies that both material and underlying code may be shared, reused, adapted as long as appropriate acknowledgement is given.
+
 ## Citation
 
 González-Bustamante, B. (2022). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 1.4.14 -- Spring Star) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
