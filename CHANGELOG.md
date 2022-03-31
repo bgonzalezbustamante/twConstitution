@@ -116,4 +116,4 @@ All notable changes to "twConstitution" will be documented in this file.
 - Badges in SVG on GitHub repository.
 - GitHub page powered by Jekyll.
 - Changelog in TXT format on GitHub repository.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
