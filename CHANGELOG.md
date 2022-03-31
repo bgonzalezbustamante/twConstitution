@@ -11,6 +11,10 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
+## [1.4.16] - 2022-03-31
+### Changed
+- Minor corrections.
+
 ## [1.4.15] - 2022-03-20
 ### Changed
 - twConstitution raw data in CSV UTF-8 format on secured repository.
