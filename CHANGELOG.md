@@ -11,23 +11,29 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
-## [1.4.17] - 2022-04-01
+## [1.5.17] - 2022-04-05
+### Changed
+- Revision of upgrade versioning.
+- Minor corrections.
+
+## [1.5.16] - 2022-04-01
 ### Changed
 - Minor corrections.
 
-## [1.4.16] - 2022-03-31
+## [1.5.15] - 2022-03-31
 ### Changed
 - Minor corrections.
 
-## [1.4.15] - 2022-03-20
+## [1.5.14] - 2022-03-20
 ### Changed
 - twConstitution raw data in CSV UTF-8 format on secured repository.
 
-## [1.4.14] - 2022-03-19
+## [1.5.13] - 2022-03-19
+### Added
+- MIT license on GitHub repository.
 ### Changed
 - twConstitution raw data in CSV UTF-8 format on secured repository.
 - Scripts and folders names standardisation.
-- MIT license on GitHub repository.
 - Revision of upgrade versioning.
 - Minor corrections.
 
