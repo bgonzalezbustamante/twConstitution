@@ -1,6 +1,6 @@
 # Twitter Online Tracker of the Chilean Referendum for a New Constitution
 
-[![Version](https://img.shields.io/badge/version-v1.5.17-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-MIT-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CCBY40.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
+[![Version](https://img.shields.io/badge/version-v1.5.18-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-MIT-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 ## Overview
 
@@ -105,13 +105,13 @@ We used `R v4.0.2 -- Taking Off Again` and the following packages: `dplyr`, `rtw
 
 ## License
 
-The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CCBY40.md), and the underlying code used to format and display that content is licensed under an [MIT license](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE.md).
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md), and the underlying code used to format and display that content is licensed under an [MIT license](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md).
 
 The above implies that both material and underlying code may be shared, reused, and adapted as long as appropriate acknowledgement is given.
 
 ## Citation
 
-González-Bustamante, B. (2022). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 1.5.17 -- Steep Fog) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
+González-Bustamante, B. (2022). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 1.5.18 -- Frosty Scene) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
 
 ## Author
 
@@ -121,4 +121,4 @@ Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustama
 
 ### Latest Revision
 
-[April 5, 2022](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
+[July 24, 2022](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
