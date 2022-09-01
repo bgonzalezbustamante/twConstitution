@@ -11,6 +11,10 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Released]
 
+## [1.5.19] - 2022-09-01
+### Changed
+- Minor corrections.
+
 ## [1.5.18] - 2022-07-24
 ### Changed
 - Minor corrections.
