@@ -115,10 +115,10 @@ González-Bustamante, B. (2022). Twitter Online Tracker of the Chilean Referendu
 
 ## Author
 
-I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda's College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the [Faculty of Administration and Economics](https://fae.usach.cl/) at the Universidad de Santiago de Chile.
+I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda's College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom.
 
 Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/).
 
 ### Latest Revision
 
-[July 24, 2022](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
+[September 1, 2022](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
