@@ -8,11 +8,11 @@
 
 This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on `#Apruebo` and `#Rechazo` viewpoints on this social media.
 
-Data sets are scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as October 6th and 26th, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
+Data sets were scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as October 6th and 26th, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
 
 ## Data Coverage
 
-> Following current ethical considerations on social media research, the files in `UTF-8` encoded comma-delimited values format have been temporarily moved to a secured and private repository to protect users-specific information and geolocated data. Data available upon request.
+> Following current ethical considerations on social media research, the files in `UTF-8` encoded comma-delimited values format have been moved to a secured and private repository to protect users-specific information and geolocated data. **Data available upon request**.
 
 | Dataset | Date | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
