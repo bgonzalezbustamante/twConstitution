@@ -3,13 +3,11 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.0.0] - TBC
-### Added
-- Exploratory data analyais code.
-- Words networks code.
-- Cryptographic algorithm.
-
 ## [Released]
+
+## [1.5.20] - 2023-01-25
+### Changed
+- Minor corrections.
 
 ## [1.5.19] - 2022-09-01
 ### Changed
