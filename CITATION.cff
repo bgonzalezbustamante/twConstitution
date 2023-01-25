@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Twitter Online Tracker of the Chilean Referendum for a New Constitution"
-version: "1.5.18 -- Frosty Scene"
+version: "1.5.20 -- Solitary Tooth"
 doi: 10.17605/OSF.IO/73NDB
-date-released: 2022-07-24
+date-released: 2023-01-25
 url: "https://github.com/bgonzalezbustamante/twConstitution"
 type: software-code
