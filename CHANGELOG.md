@@ -3,7 +3,17 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
+## [2.0.0] - TBC
+### Added
+- Finishing scraping in JSON format on secured repository.
+### Changed
+- Minor corrections.
+
 ## [Released]
+
+## [1.6.20] - 2023-02-09
+### Added
+- Starting scraping in JSON format on secured repository.
 
 ## [1.5.20] - 2023-01-25
 ### Changed
