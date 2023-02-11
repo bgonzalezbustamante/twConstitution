@@ -14,7 +14,7 @@ The newest data sets were collected in February 2023 in `JSON` format. The origi
 
 ### Newest Data Sets
 
-> The files in `JSON` are in a secured, private repository. []**Data available upon request**](https://bgonzalezbustamante.com/).
+> The files in `JSON` are in a secured, private repository. [Data available upon request](https://bgonzalezbustamante.com/).
 
 | Batch | Month | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ The newest data sets were collected in February 2023 in `JSON` format. The origi
 
 ### Original Data Sets
 
-> These data sets were used in this [research project](https://training-datalab.com/projects/vip-project-machine-learning). Following current ethical considerations on social media research, the original sets in `CSV UTF-8` are in a secured, private repository to protect users-specific information and geolocated data. [**Data available upon request**](https://bgonzalezbustamante.com/).
+> These data sets were used in this [research project](https://training-datalab.com/projects/vip-project-machine-learning). Following current ethical considerations on social media research, the original sets in `CSV UTF-8` are in a secured, private repository to protect users-specific information and geolocated data. [Data available upon request](https://bgonzalezbustamante.com/).
 
 | Dataset | Date | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
