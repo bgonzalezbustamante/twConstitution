@@ -18,10 +18,12 @@ The newest data sets were collected in February 2023 in `JSON` format. The origi
 
 | Batch | Month | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
-| Batch-01 | Aug. | 2020 |  | 1.23 GB | `JSON` |
-| Batch-02 | Sep. | 2020 |  | 1.98 GB | `JSON` |
-| Batch-03 | Oct. | 2020 |  | 2.30 GB | `JSON` |
-| Batch-04 | Nov. | 2020 |  | 32.5 MB | `JSON` |
+| Batch-01 | Aug. | 2020 | 612,854 | 1.23 GB | `JSON` |
+| Batch-02 | Sep. | 2020 | 989,019 | 1.98 GB | `JSON` |
+| Batch-03 | Oct. | 2020 | 1,111,440 | 2.30 GB | `JSON` |
+| Batch-04 | Nov. | 2020 | 17,507 | 32.5 MB | `JSON` |
+
+<img src="https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/docs/images/counting_pot.png" width="800px;"/>
 
 ### Original Data Sets
 
