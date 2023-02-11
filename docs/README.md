@@ -1,18 +1,31 @@
 # Twitter Online Tracker of the Chilean Referendum for a New Constitution
 
-[![Version](https://img.shields.io/badge/version-v1.5.20-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-MIT-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
+[![Version](https://img.shields.io/badge/version-v1.5.20-blue.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/twConstitution.svg)](https://github.com/bgonzalezbustamante/twConstitution/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F73NDB-blue)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://img.shields.io/badge/license-MIT-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.0.2-1f425f.svg)](https://cran.r-project.org/) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/) [![Version](https://github.com/bgonzalezbustamante/twConstitution/blob/master/docs/images/badge_version.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md)
 
 ## Overview
 
-> **This project is no longer active.** These data sets were used in this [research project](https://training-datalab.com/projects/vip-project-machine-learning).
+> **This project is no longer active.**
 
 This is a Twitter online tracker of the Chilean referendum for a new Constitution in October 2020, which contains daily datasets on `#Apruebo` and `#Rechazo` viewpoints on this social media.
 
-Data sets were scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as October 6th and 26th, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
+The newest data sets were collected in February 2023 in `JSON` format. The original data sets in `CSV UTF-8` were scraped and uploaded regularly. Some of the variables are date, hour, username, tweet text, RT count, fav count, location, among others. The data was collected during the afternoon each day. A couple of exceptions, such as October 6th and 26th, 2020, were collected early morning on the following day. This is not an issue because the data could be sliced, and in order to work with the whole period, it is necessary to merge the sets and retain unique cases.
 
 ## Data Coverage
 
-> Following current ethical considerations on social media research, the files in `UTF-8` encoded comma-delimited values format have been moved to a secured and private repository to protect users-specific information and geolocated data. **Data available upon request**.
+### Newest Data Sets
+
+> The files in `JSON` are in a secured and private repository. **Data available upon request**.
+
+| Batch | Month | Year | *N* | Size | Format |
+| --- | --- | --- | --- | --- | --- |
+| Batch-01 | Aug. | 2020 |  | 1.23 GB | `JSON` |
+| Batch-02 | Sep. | 2020 |  | 1.98 GB | `JSON` |
+| Batch-03 | Oct. | 2020 |  | 2.30 GB | `JSON` |
+| Batch-04 | Nov. | 2020 |  | 32.5 MB | `JSON` |
+
+### Original Data Sets
+
+> These data sets were used in this [research project](https://training-datalab.com/projects/vip-project-machine-learning). Following current ethical considerations on social media research, the original data sets in `CSV UTF-8` are in a secured and private repository to protect users-specific information and geolocated data. **Data available upon request**.
 
 | Dataset | Date | Year | *N* | Size | Format |
 | --- | --- | --- | --- | --- | --- |
@@ -101,7 +114,7 @@ The GitHub repository has controlled access with Two-Factor Authentication `2FA`
 
 ### Software
 
-We used `R v4.0.2 -- Taking Off Again` and the following packages: `dplyr`, `rtweet`, and `tidytext`.
+We used `R v4.0.2 -- Taking Off Again` and the following packages: `dplyr`, `rtweet`, and `tidytext`. During data gathering in `JSON` format in 2023, we used `R v4.2.2 -- Innocent and Trusting` and `academictwitteR` package.
 
 ## License
 
@@ -111,7 +124,7 @@ The above implies that both material and underlying code may be shared, reused, 
 
 ## Citation
 
-González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 1.5.20 -- Solitary Tooth) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
+González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.0 -- Delicate Haze) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
 
 ## Author
 
@@ -121,4 +134,4 @@ Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustama
 
 ### Latest Revision
 
-[January 25, 2023](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
+[February 11, 2023](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
