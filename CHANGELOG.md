@@ -9,6 +9,7 @@ All notable changes to "twConstitution" will be documented in this file.
 ### Added
 - Finishing scraping in JSON format on secured repository.
 ### Changed
+- Badges in SVG on GitHub repository.
 - Minor corrections.
 
 ## [1.6.20] - 2023-02-09
