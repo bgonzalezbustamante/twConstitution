@@ -3,13 +3,13 @@ All notable changes to "twConstitution" will be documented in this file.
 
 ## [Unreleased]
 
-## [2.0.0] - TBC
+## [Released]
+
+## [2.0.0] - 2023-02-11
 ### Added
 - Finishing scraping in JSON format on secured repository.
 ### Changed
 - Minor corrections.
-
-## [Released]
 
 ## [1.6.20] - 2023-02-09
 ### Added
