@@ -1,7 +1,5 @@
 # Project Statuses
 
-![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/inactive.svg) The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.
-
 - **Concept** – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.
 - **WIP** – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
 - **Suspended** – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.
