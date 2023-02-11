@@ -23,7 +23,7 @@ The newest data sets were collected in February 2023 in `JSON` format. The origi
 | Batch-03 | Oct. | 2020 | 1,111,440 | 2.30 GB | `JSON` |
 | Batch-04 | Nov. | 2020 | 17,507 | 32.5 MB | `JSON` |
 
-<img src="https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/b207b9f17aefa4f3878aa2426dbc2e175dfdc06b/docs/images/counting_plot.png" width="800px;"/>
+<img src="https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/b207b9f17aefa4f3878aa2426dbc2e175dfdc06b/docs/images/counting_plot.png" width="600px;"/>
 
 ### Original Data Sets
 
