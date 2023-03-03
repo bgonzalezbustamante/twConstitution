@@ -1,6 +1,6 @@
 # Twitter Online Tracker of the Chilean Referendum for a New Constitution
 
-[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/v_2_0_0.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/inactive.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/doi.svg)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/mit.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/cc_by_4_0.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/r_4_0_2.svg)](https://cran.r-project.org/) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![Jekyll](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/jekyll.svg)](https://jekyllrb.com/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/v_2_0_1.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/inactive.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/STATUS.md) [![DOI](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/doi.svg)](http://doi.org/10.17605/OSF.IO/73NDB) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/mit.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-MIT.md) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/cc_by_4_0.svg)](https://github.com/bgonzalezbustamante/twConstitution/blob/master/LICENSE-CC.md) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/r_4_0_2.svg)](https://cran.r-project.org/) [![R](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/r_4_2_2.svg)](https://cran.r-project.org/) [![Jekyll](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/jekyll.svg)](https://jekyllrb.com/) [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/twConstitution/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
@@ -126,7 +126,7 @@ The above implies that both material and underlying code may be shared, reused, 
 
 ## Citation
 
-González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.0 -- Delicate Haze) [Computer software]. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
+González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.1 -- Purple Silence) [Computer software]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
 
 ## Author
 
@@ -136,4 +136,4 @@ Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustama
 
 ### Latest Revision
 
-[February 11, 2023](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
+[March 3, 2023](https://github.com/bgonzalezbustamante/twConstitution/blob/master/CHANGELOG.md).
