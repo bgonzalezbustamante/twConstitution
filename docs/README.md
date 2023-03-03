@@ -126,7 +126,7 @@ The above implies that both material and underlying code may be shared, reused, 
 
 ## Citation
 
-González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.1 -- Purple Silence) [Computer software]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB)
+González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.1 -- Purple Silence) [Computer software]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.17605/OSF.IO/73NDB](https://doi.org/10.17605/OSF.IO/73NDB).
 
 ## Author
 
